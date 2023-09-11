@@ -1,0 +1,72 @@
+{
+    "pagina_pokemon": {
+        "comentarios": [
+            {
+                "usuario": "Ash Ketchup",
+                "fecha": "2023-09-11",
+                "contenido": "Por culpa de esta pagina asquerosa es que tarde  25 años en ser campeon de la liga pokemon",
+                "rating": 1
+            },
+            {
+                "usuario": "Misty",
+                "fecha": "2023-09-12",
+                "contenido": "Continuo buscando a la miutu, todo mal no lo encuentro.",
+                "rating": 3
+            },
+            {
+                "usuario": "Brock",
+                "fecha": "2023-09-13",
+                "contenido": "ME GUSTA EL ARTE",
+                "rating": 5
+            },
+            {
+                "usuario": "Team Rocket",
+                "fecha": "2022-12-14",
+                "contenido": "Preparense para los problemas y más vale que teman, para proteger al mundo de la devastación, para unir a los pueblos dentro de nuestra nación, para denunciar a los males de la verdad y el amor y extender nuestro reino hasta las estrellas. Jessie! Jame-me-mes!, el Equipo Rocket viajando a la velocidad de la luz!. Ríndanse ahora o preparense para luchar! Meowth! Así es!",
+                "rating": 5
+            },
+            {
+                "usuario": "pikachu420",
+                "fecha": "2022-06-04",
+                "contenido": "pikaaaaaa pikaaaaaa",
+                "rating": 4
+            },
+            {
+                "usuario": "UrsaringFan",
+                "fecha": "2023-07-13",
+                "contenido": "El verdadero oso maduro.",
+                "rating": 5
+            },
+            {
+                "usuario": "Knekro",
+                "fecha": "2023-09-10",
+                "contenido": "Que os reviento chavales que soy subcampeon del torneo",
+                "rating": 3
+            },
+            {
+                "usuario": "Geoudude",
+                "fecha": "2023-09-01",
+                "contenido": "Soy una gargola, de noche salgo siempre pal baile",
+                "rating": 5
+            },
+            {
+                "usuario": "Zubat",
+                "fecha": "2023-02-14",
+                "contenido": "El señor de la noche. Soy mitad hombre, mitad animal. El señor de la noche, Mejor escapa o te va a matar. El señor de la noche, con tu corazón no deberías jugar, a mí, a mí",
+                "rating": 5
+            },
+            {
+                "usuario": "FolagorFANBOY2015",
+                "fecha": "2023-07-02",
+                "contenido": "https://www.youtube.com/watch?v=d4XGvovEMOM",
+                "rating": 2
+            },
+            {
+                "usuario": "SquirtleBestInicial",
+                "fecha": "2023-12-06",
+                "contenido": "Vamo a calmarno",
+                "rating": 3
+            }
+        ]
+    }
+}

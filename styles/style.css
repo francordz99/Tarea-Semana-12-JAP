@@ -319,3 +319,42 @@ footer {
         padding: 15px;
     }
 }
+
+.fa-star.unchecked {
+    color: #cfcfcf;
+}
+
+.star-rating {
+    display: inline-block;
+    direction: rtl;
+    /* Invertir la dirección de lectura (derecha a izquierda) */
+    font-size: 0;
+    /* sin espacio entre estrellas*/
+}
+
+.star-rating input[type="radio"] {
+    display: none;
+}
+
+.star-rating label {
+    font-size: 24px;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.star-rating label:before {
+    content: "\2605";
+    /* Carácter Unicode para la estrella (★) */
+    color: #ccc;
+    /* Color de estrella no seleccionada */
+}
+
+.star-rating input[type="radio"]:checked~label:before {
+    color: #FFD700;
+    /* Color de estrella seleccionada (amarillo) */
+}
+
+.star-rating input[type="radio"]:hover~label:before {
+    color: #FFD700;
+    /* Color de estrella seleccionada (amarillo) */
+}
